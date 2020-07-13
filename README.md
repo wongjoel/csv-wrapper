@@ -1,6 +1,6 @@
 # csv-wrapper
 
-Convenience methods based on [clojure/data.csv](https://github.com/clojure/data.csv) for reading CSV files. This is more of an example of how to build on the foundation given by [clojure/data.csv](https://github.com/clojure/data.csv) than a full featured library. For a more full featured csv library, check out [metasoarous/semantic-csv](https://github.com/metasoarous/semantic-csv).
+Convenience methods based on [clojure/data.csv](https://github.com/clojure/data.csv) for reading CSV files. This is more of an example of how to build on the foundation given by [clojure/data.csv](https://github.com/clojure/data.csv) than a full featured library. For a more full featured csv library, check out [metasoarous/semantic-csv](https://github.com/metasoarous/semantic-csv) or [techascent/tech.ml.dataset](https://github.com/techascent/tech.ml.dataset).
 
 ## Why?
 
